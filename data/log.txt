@@ -1,0 +1,61 @@
+[09:29:19.467129 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Couldn't resolve host name], but ignore it now
+[09:30:31.064053 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Couldn't resolve host name], but ignore it now
+[09:31:41.496582 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Couldn't resolve host name], but ignore it now
+[09:36:53.379849 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Couldn't resolve host name], but ignore it now
+[09:38:03.351792 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Couldn't resolve host name], but ignore it now
+[09:38:49.261222 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Couldn't resolve host name], but ignore it now
+[09:39:31.959272 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Couldn't resolve host name], but ignore it now
+[09:39:53.008659 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Couldn't resolve host name], but ignore it now
+[09:40:56.477341 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Couldn't resolve host name], but ignore it now
+[09:42:13.606504 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Couldn't resolve host name], but ignore it now
+[09:42:30.901491 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Couldn't resolve host name], but ignore it now
+[09:44:57.642360 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Couldn't resolve host name], but ignore it now
+[09:46:30.561241 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Couldn't resolve host name], but ignore it now
+[09:47:23.818776 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Couldn't resolve host name], but ignore it now
+[09:49:34.380733 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Couldn't resolve host name], but ignore it now
+[09:50:05.722303 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Couldn't resolve host name], but ignore it now
+[09:50:13.958207 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Couldn't resolve host name], but ignore it now
+[09:51:36.303613 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Couldn't resolve host name], but ignore it now
+[09:51:43.417045 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Couldn't resolve host name], but ignore it now
+[09:53:27.316479 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Couldn't resolve host name], but ignore it now
+[09:53:32.351604 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Couldn't resolve host name], but ignore it now
+[09:56:40.399386 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Couldn't resolve host name], but ignore it now
+[09:57:27.901058 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Couldn't resolve host name], but ignore it now
+[09:57:34.212869 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Couldn't resolve host name], but ignore it now
+[10:18:30.368514 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Couldn't resolve host name], but ignore it now
+[10:25:16.480262 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Couldn't resolve host name], but ignore it now
+[10:26:05.984827 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Couldn't resolve host name], but ignore it now
+[10:41:31.957276 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Timeout was reached], but ignore it now
+[10:41:54.881937 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Couldn't resolve host name], but ignore it now
+[11:08:23.998801 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Timeout was reached], but ignore it now
+[11:08:53.572619 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Couldn't resolve host name], but ignore it now
+[11:10:43.659772 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Timeout was reached], but ignore it now
+[11:11:25.604056 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Couldn't resolve host name], but ignore it now
+[11:27:40.519632 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Timeout was reached], but ignore it now
+[11:28:07.326000 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Couldn't resolve host name], but ignore it now
+[11:29:54.758330 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Timeout was reached], but ignore it now
+[12:54:39.488134 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Timeout was reached], but ignore it now
+[12:55:56.955013 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Timeout was reached], but ignore it now
+[12:56:41.538369 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Timeout was reached], but ignore it now
+[12:59:18.466862 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Timeout was reached], but ignore it now
+[12:59:56.380664 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Timeout was reached], but ignore it now
+[13:03:06.034341 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Timeout was reached], but ignore it now
+[13:03:19.746865 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Couldn't resolve host name], but ignore it now
+[14:35:01.216096 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Couldn't resolve host name], but ignore it now
+[14:41:40.679077 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Couldn't resolve host name], but ignore it now
+[14:41:45.215568 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Couldn't resolve host name], but ignore it now
+[14:44:22.661672 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Couldn't resolve host name], but ignore it now
+[14:44:31.981098 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Couldn't resolve host name], but ignore it now
+[14:45:15.844802 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Couldn't resolve host name], but ignore it now
+[14:45:52.307053 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Couldn't resolve host name], but ignore it now
+[14:46:21.421310 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Couldn't resolve host name], but ignore it now
+[14:48:35.920984 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Couldn't resolve host name], but ignore it now
+[14:48:44.425366 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Couldn't resolve host name], but ignore it now
+[14:49:19.680965 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Couldn't resolve host name], but ignore it now
+[14:52:37.877351 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Couldn't resolve host name], but ignore it now
+[14:52:44.833132 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Couldn't resolve host name], but ignore it now
+[14:56:53.871496 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Couldn't resolve host name], but ignore it now
+[15:21:53.051692 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Timeout was reached], but ignore it now
+[15:22:35.064131 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Couldn't resolve host name], but ignore it now
+[15:23:08.007747 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Couldn't resolve host name], but ignore it now
+[15:28:20.139637 +00:00] [---E---] [telemetry.cpp] [thread 1387749] Telemetry request failed: [Timeout was reached], but ignore it now
